@@ -1,0 +1,8 @@
+com\venkat\springmvc\configuration\UserManagementConfiguration.class
+com\venkat\springmvc\configuration\UserInitializer.class
+com\venkat\springmvc\controller\IndexController.class
+com\com\springmvc\model\User.class
+com\venkat\springmvc\configuration\CORSFilter.class
+com\venkat\springmvc\controller\UserManagementRestController.class
+com\venkat\springmvc\service\UserServiceImpl.class
+com\venkat\springmvc\service\UserService.class
